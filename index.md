@@ -1,6 +1,6 @@
 <nav id="site-nav">
 <ul>
-<li><a href="#">Home</a></li>
-<a href="#">About</a>
+<a href="#">Home.html</a>
+<a href="#">About.html</a>
 </ul>
 </nav>
