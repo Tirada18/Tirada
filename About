@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <head>
-  <title>Hello Github Pages</title>
+  <title>สมาชิกในกลุ่ม</title>
   <body>
-    <h1>Hello Github Pages</h1>
-    
-    <li><a href="#">Home</a></li>
-<li><a href="#">About</a></li>
+    <h1>Hello Github Pages</h1> 
   </body>
 </html>
