@@ -7,7 +7,6 @@
 <a href="Home.html">Home</a>&nbsp;&nbsp;&nbsp;
 <a href="About.html">About</a>
 </ul>
-</nav>
  </body>
 </html>
 
