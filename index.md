@@ -4,7 +4,6 @@
 <a href="About.html">About</a>
 </ul>
 </nav>
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -12,6 +11,6 @@
 <button type="button" onclick="alert('Hello world!')">Click Me!</button>
  
 </body>
-</html>
+
 
 
