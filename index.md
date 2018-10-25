@@ -4,13 +4,6 @@
 <a href="About.html">About</a>
 </ul>
 </nav>
-<html>
-<body>
-
-<h2>The Button Element</h2>
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
- 
-</body>
-
+<h1>Homework of 308-364 ADVANCE WEB PROGRAMMING</h1>
 
 
